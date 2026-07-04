@@ -13,4 +13,4 @@ React, Node.js, FastAPI, Gemini API, Tailwind
 - Smart Attendance System
 
 ### Contact
-ksandeep1228@gmail.com
+ksandeep12287@gmail.com
