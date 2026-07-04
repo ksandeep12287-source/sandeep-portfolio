@@ -1,6 +1,6 @@
 # Sandeep Kumar Portfolio
 
-🚀 **Live**: https://sandeep-portfolio.vercel.app
+🚀 **Live**: https://sandeep-portfolio-puce.vercel.app
 
 BCA Student | Full Stack + AI Developer
 
